@@ -1,0 +1,38 @@
+[
+{
+    "id":1,
+    "name":"LD01 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+},
+{
+    "id":2,
+    "name":"LD02 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+},
+{
+    "id":3,
+    "name":"LD03 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+},
+{
+    "id":4,
+    "name":"LD04 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+},
+{
+    "id":5,
+    "name":"LD05 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+},
+{
+    "id":6,
+    "name":"LD06 LOUNGE CHAIR",
+    "price": 50000,
+    "image":"Unisex Softstyle T-Shirt.webp"
+}
+]

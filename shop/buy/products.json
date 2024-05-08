@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "name":"Create-T-Shirt Online in Pakistan",
+        "price": 200,
+        "image": "image/1.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Men's Longtail T Relaxed Fit Short Sleeve",
+        "price": 250,
+        "image": "image/2.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Unisex Softstyle T-Shirt",
+        "price": 290,
+        "image": "image/3.webp"
+    },
+    {
+        "id": 4,
+        "name":"Offline T-Shirt-Graphic T-Shirts Australia",
+        "price": 200,
+        "image": "image/4.webp"
+    },
+    {
+        "id": 5,
+        "name":"MP Men's Performance Short Sleeve T-Shirt-Blue Moon",
+        "price": 300,
+        "image": "image/5.jpg"
+    },
+    {
+        "id": 6,
+        "name":"MP Men's Performance Short Sleeve T-Shirt",
+        "price": 200,
+        "image": "image/6.jpg"
+    }
+
+]
